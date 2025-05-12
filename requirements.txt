@@ -1,0 +1,3 @@
+pyamaze
+matplotlib
+pandas
